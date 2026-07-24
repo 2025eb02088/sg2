@@ -1,0 +1,7 @@
+[2026-07-24 18:47:58] [ERROR] Connection timeout from 192.168.1.249
+[2026-07-24 18:47:59] [ERROR] Disk space low on /var/log
+[2026-07-24 18:48:00] [ERROR] Connection timeout from 192.168.1.192
+[2026-07-24 18:48:01] [ERROR] Disk space low on /var/log
+[2026-07-24 18:48:02] [ERROR] Connection timeout from 192.168.1.243
+[2026-07-24 18:48:02] [ERROR] Connection timeout from 192.168.1.238
+[2026-07-24 18:48:03] [ERROR] Connection timeout from 192.168.1.228
